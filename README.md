@@ -17,13 +17,13 @@ Simple App built with MEVN
 ## Technologies
 This project uses:
 
-Mysql NoSQL database.
+- Mysql NoSQL database
 
-Express For an HTTP Server
+- Express for an HTTP Server
 
-VueJS For Views, with the Vuetify Material Design Framework
+- VueJS for Views, with the Vuetify Material Design Framework
 
-Node For a JavaScript runtime
+- Node for a JavaScript runtime
 
 
 ## Installation
